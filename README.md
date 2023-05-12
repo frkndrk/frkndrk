@@ -28,5 +28,14 @@ I can work both independently and with a team. I believe that great achievements
 
 ### 🔧 Technologies & Tools
 
-<img src="https://www.pngfind.com/pngs/m/683-6834215_html-css-js-icon-hd-png-download.png">
+### HTML
+HTML5	CSS3
+CSS3	JavaScript
+JavaScript	React
+React
+Bootstrap
+Bootstrap	Sass/Scss
+Sass/Scss	Visual Studio Code
+VS Code	Git
+Git
 
