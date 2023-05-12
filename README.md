@@ -28,8 +28,5 @@ I can work both independently and with a team. I believe that great achievements
 
 ### 🔧 Technologies & Tools
 
-<table>
-  <tr>[https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FTiiohob_html-css-js-icon-hd-png-download%2F&psig=AOvVaw0b2OdyLwlBMZpFmSVXOk7g&ust=1683965119528000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjA7Z6p7_4CFQAAAAAdAAAAABBS)</td>
-    
-  </tr>
-</table>
+<img src="[https://camo.githubusercontent.com/d458b55282fc167f5a189b35e54f966acdd5100d9331d90bea6416f2805e7f95/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2e737667](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FTiiohob_html-css-js-icon-hd-png-download%2F&psig=AOvVaw0b2OdyLwlBMZpFmSVXOk7g&ust=1683965119528000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjA7Z6p7_4CFQAAAAAdAAAAABBS)"</td>
+
