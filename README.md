@@ -26,5 +26,3 @@ I'm a fan of clean, functional, workable and readable coding.
 
 I can work both independently and with a team. I believe that great achievements will be achieved by teams with a strong team spirit.
 
-
-<img src="https://user-images.githubusercontent.com/121384742/227380366-3c814086-6fa5-41ae-ab3f-c8180823f815.png"/>
