@@ -28,14 +28,4 @@ I can work both independently and with a team. I believe that great achievements
 
 ### 🔧 Technologies & Tools
 
-### HTML
-HTML5	CSS3
-CSS3	JavaScript
-JavaScript	React
-React
-Bootstrap
-Bootstrap	Sass/Scss
-Sass/Scss	Visual Studio Code
-VS Code	Git
-Git
-
+<img src="https://www.web-ofisi.com/tema/webofisi/uploads/blog/difference-between-html-css-and-javascript.png">
