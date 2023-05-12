@@ -28,4 +28,4 @@ I can work both independently and with a team. I believe that great achievements
 
 ### 🔧 Technologies & Tools
 
-<img src="https://www.web-ofisi.com/tema/webofisi/uploads/blog/difference-between-html-css-and-javascript.png">
+<img style="font-size: 50px;" src="https://www.web-ofisi.com/tema/webofisi/uploads/blog/difference-between-html-css-and-javascript.png">
