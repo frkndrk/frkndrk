@@ -28,5 +28,5 @@ I can work both independently and with a team. I believe that great achievements
 
 ### 🔧 Technologies & Tools
 
-<img style="width: 250px;" src="https://www.web-ofisi.com/tema/webofisi/uploads/blog/difference-between-html-css-and-javascript.png"><img style="width: 90px;" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2022/01/bootstrap-logo-for-blog-1-300x250.png">
+<img style="width: 250px;" src="https://www.web-ofisi.com/tema/webofisi/uploads/blog/difference-between-html-css-and-javascript.png"><img style="width: 95px;" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2022/01/bootstrap-logo-for-blog-1-300x250.png">
 
