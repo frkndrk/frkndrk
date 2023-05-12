@@ -26,7 +26,7 @@ I'm a fan of clean, functional, workable and readable coding.
 
 I can work both independently and with a team. I believe that great achievements will be achieved by teams with a strong team spirit.
 
-🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 <table>
   <tr>
