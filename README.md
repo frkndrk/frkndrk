@@ -26,3 +26,14 @@ I'm a fan of clean, functional, workable and readable coding.
 
 I can work both independently and with a team. I believe that great achievements will be achieved by teams with a strong team spirit.
 
+🔧 Technologies & Tools
+HTML
+HTML5	CSS3
+CSS3	JavaScript
+JavaScript	React
+React
+Bootstrap
+Bootstrap	Sass/Scss
+Sass/Scss	Visual Studio Code
+VS Code	Git
+Git
