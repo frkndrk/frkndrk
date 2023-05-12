@@ -28,5 +28,5 @@ I can work both independently and with a team. I believe that great achievements
 
 ### 🔧 Technologies & Tools
 
-<img style="background-color: transparent;" src="https://www.pngfind.com/pngs/m/683-6834215_html-css-js-icon-hd-png-download.png">
+<img style="background-color: gray;" src="https://www.pngfind.com/pngs/m/683-6834215_html-css-js-icon-hd-png-download.png">
 
